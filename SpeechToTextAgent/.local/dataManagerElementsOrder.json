@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Prompt&Sequence_1",
+        "HistoryMssg&Sequence_1",
+        "ExtractedText&Sequence_1",
+        "PreviousData1&Sequence_1",
+        "TableData&Sequence_1",
+        "NextRowIndex&Sequence_1",
+        "ExcelExtension&Sequence_1",
+        "ExcelFileExtension&Sequence_1",
+        "ValidExtensions&Sequence_4",
+        "FileExtension&Sequence_4",
+        "PathExists&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "errorMessage",
+        "ExcelFilePath",
+        "LLMResponse",
+        "SelectedFile",
+        "TranscribedText",
+        "Prompt"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
